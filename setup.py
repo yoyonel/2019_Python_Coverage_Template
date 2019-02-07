@@ -9,7 +9,5 @@ setup(name='ForCity_Test_Widgets_Coverage',
       author_email='lionel.atty@forcity.com',
       url='',
       packages=[
-          'distutils',
-          'distutils.command'
       ],
       )
